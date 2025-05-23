@@ -1,1 +1,4 @@
-apiKey.py
+downloaded_videos/*
+__pycache__/*
+
+crawler_log.txt
